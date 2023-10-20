@@ -1,0 +1,5 @@
+{
+	"runtime": "nodejs18.x",
+	"handler": "home/hp8300/project/blog/dist/entry.mjs",
+	"launcherType": "Nodejs"
+}
